@@ -3,9 +3,9 @@ body {
 }
 
 .image{
-    border: 5px solid green;
+    border: 5px solid rgb(153, 15, 95);
     border-radius: 10px;
-    height: 400px;
+    height: 100px;
 }
 
 .link-button {
